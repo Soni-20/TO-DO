@@ -46,7 +46,7 @@ Make sure you are in the backend directory.
 Run the Spring Boot application:
 
 java -jar target/todo-backend.jar
-The backend will be running at http://localhost:8094.
+The backend will be running at http://localhost:8084.
 Test
 Frontend (React)
 To run tests for the frontend:
